@@ -1,1 +1,1 @@
-https://github.com/KinoOnAir/first-project.git Ссылка на проект GitHub.
+https://github.com/KinoOnAir/first-project.git
