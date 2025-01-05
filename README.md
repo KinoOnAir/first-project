@@ -1,1 +1,1 @@
-https://github.com/KinoOnAir/first-project.git
+https://github.com/KinoOnAir/ono-tebe-nado-fd.git
