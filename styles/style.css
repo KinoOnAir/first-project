@@ -3,7 +3,6 @@
     margin: auto;
   }
   
-  
   .no-wrap {
     white-space: nowrap;
   }
@@ -33,7 +32,6 @@
   .aligned-text_right {
     text-align: right;
   }
-  
   
   .overlay {
     position: absolute;
@@ -70,7 +68,6 @@
   .bet-button:hover {
     transform: scale(1.03);
   }
-  
   
   .header {
     display: grid;
@@ -136,7 +133,6 @@
     text-underline-offset: 7px;
   }
   
-  
   .cover {
     position: relative;
     z-index: 1;
@@ -176,7 +172,6 @@
     text-transform: uppercase;
     word-spacing: 18px;
   }
-  
   
   .lots {
     padding: 179px 50px 50px 50px;
@@ -218,7 +213,6 @@
     text-underline-offset: 7px;
   }
   
-  
   .card-link {
     display: block;
     width: 100%;
@@ -240,11 +234,6 @@
     height: 100%;
     padding: 50px 40px;
     color: #fff;
-  }
-  
-  .card_type_film,
-  .card_type_book,
-  .card_type_picture {
     background-color: #a7a7a7;
     background-repeat: no-repeat;
     background-position: center;
@@ -277,7 +266,6 @@
     font-size: 20px;
     line-height: 120%;
   }
-  
   
   .about {
     display: grid;
@@ -362,7 +350,6 @@
   .footer__social-link {
     display: block;
     width: 48px;
-    height: 48px;
     transition: transform 0.3s ease;
   }
   
