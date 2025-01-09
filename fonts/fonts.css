@@ -1,1 +1,17 @@
-<link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic" rel="stylesheet" />
+@font-face {
+  font-family: Raleway;
+  src:
+    url(./Raleway-Regular.woff2) format('woff2'),
+    url(./Raleway-Regular.woff) format('woff');
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Raleway;
+  src:
+    url(./Raleway-Bold.woff2) format('woff2'),
+    url(./Raleway-Bold.woff) format('woff');
+  font-weight: bold;
+  font-display: swap;
+}
